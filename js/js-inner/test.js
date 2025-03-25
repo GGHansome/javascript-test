@@ -5,4 +5,4 @@ console.log(a + b);
 
 const c = 55
 
-
+const d = 66
