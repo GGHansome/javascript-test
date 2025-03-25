@@ -3,4 +3,6 @@ const b = 10;
 
 console.log(a + b);
 
+const c = 55
+
 
