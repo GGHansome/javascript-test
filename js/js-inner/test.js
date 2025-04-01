@@ -6,3 +6,9 @@ console.log(a + b);
 const c = 55
 
 
+const d = 66
+
+const e = 77
+
+console.log(c + d + e)
+
